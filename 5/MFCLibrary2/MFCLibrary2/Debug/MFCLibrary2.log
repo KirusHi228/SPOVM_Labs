@@ -1,0 +1,6 @@
+﻿  concat.cpp
+c:\users\кирилл устинов\desktop\прога\лабы\сповм\5\mfclibrary2\mfclibrary2\concat.h(11): warning C4005: 'CONCAT_API': macro redefinition
+  c:\users\кирилл устинов\desktop\прога\лабы\сповм\5\mfclibrary2\mfclibrary2\concat.h(7): note: see previous definition of 'CONCAT_API'
+c:\users\кирилл устинов\desktop\прога\лабы\сповм\5\mfclibrary2\mfclibrary2\concat.cpp(259): warning C4273: 'concat': inconsistent dll linkage
+  c:\users\кирилл устинов\desktop\прога\лабы\сповм\5\mfclibrary2\mfclibrary2\concat.h(14): note: see previous definition of 'concat'
+  MFCLibrary2.vcxproj -> C:\Users\Кирилл Устинов\Desktop\Прога\Лабы\СПОВМ\5\MFCLibrary2\Debug\MFCLibrary2.dll
